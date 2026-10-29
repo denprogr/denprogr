@@ -4,13 +4,13 @@
 
 <br/>
 
-*Designing interfaces that feel like part of the world, not a layer on top of it.*
+*Learning by building: one commit, one idea, one step deeper at a time.*
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=6366f1&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=denprogr&label=Profile%20views&color=6366f1&style=flat-square)
 ![Status](https://img.shields.io/badge/status-open%20to%20collaboration-6366f1?style=flat-square)
-![Focus](https://img.shields.io/badge/focus-Game%20UI%2FUX-1f2937?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-Web%20%C2%B7%20Game%20%C2%B7%20ML-1f2937?style=flat-square)
 
 </div>
 
@@ -83,7 +83,7 @@ Creative Tools
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-porto)
-[![Instagram](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.instagram.com/aden_.dr/)
+[![Instagram](https://img.shields.io/badge/Instagram-13AFF0?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aden_.dr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadadenfikridarmawan/)
 
 </div>
