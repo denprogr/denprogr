@@ -4,7 +4,7 @@
 
 <br/>
 
-*Learning by building: one commit, one idea, one step deeper at a time.*
+*commit-push-sleep.*
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 👋 About
 
-I'm a Computer Science student who enjoys building things across the stack: frontend and backend web development, game projects, and machine learning. I like understanding how things work under the hood, and then turning that understanding into something people can actually use or play.
+I'm just an ordinary guy who lost in tech.
 
 This account is where I build in public: shipping small things consistently, learning in depth, and growing a portfolio of real work.
 
