@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f2937,100:6366f1&text=warminx&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Game%20UI%2FUX%20Artist%20%C2%B7%20Computer%20Science%20Student&descAlignY=60&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f2937,100:6366f1&text=warminx&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=60&descSize=16" alt="header" />
 
 <br/>
 
