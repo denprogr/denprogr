@@ -83,7 +83,7 @@ Creative Tools
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-porto)
-[![Instagram](https://img.shields.io/badge/Instagram-13AFF0?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aden_.dr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aden_.dr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadadenfikridarmawan/)
 
 </div>
