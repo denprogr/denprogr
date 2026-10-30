@@ -57,17 +57,6 @@ Creative Tools
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=denprogr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&hide=stars" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denprogr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=denprogr&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" alt="Streak" />
-
-</div>
-
 ---
 
 ## 🌱 Currently
