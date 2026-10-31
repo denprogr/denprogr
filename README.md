@@ -37,7 +37,7 @@ Languages & Web
 
 Exploring
 
-<img src="https://skillicons.dev/icons?i=nodejs,godot,cs,pytorch&theme=dark" alt="exploring" />
+<img src="https://skillicons.dev/icons?i=nodejs,unity,cs,reflex&theme=dark" alt="exploring" />
 
 Creative Tools
 
