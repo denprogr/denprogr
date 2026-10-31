@@ -38,7 +38,7 @@ Languages & Web
 Exploring
 
 <img src="https://skillicons.dev/icons?i=nodejs,unity,cs&theme=dark" alt="exploring" />
-<img src="https://img.shields.io/badge/Reflex-6E56CF?style=for-the-badge" alt="Reflex" />
+<img src="picts/svg/reflex-badge.svg" height="48" alt="Reflex" />
 
 Creative Tools
 
